@@ -9,6 +9,6 @@
     <title>Success</title>
 </head>
 <body>
-<h1>执行成功</h1>
+<h1>Hello SpringMVC!</h1>
 </body>
 </html>

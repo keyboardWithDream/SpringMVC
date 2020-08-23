@@ -10,6 +10,8 @@
 </head>
 <body>
 <h1>第一个SpringMVC程序</h1>
-<a href="hello">入门程序</a>
+<a href="controller/hello?hello=null&who=SpringMVC">入门程序</a>
+<hr>
+<a href="controller/testRequestMapping">测试RequestMapping注解</a>
 </body>
 </html>
