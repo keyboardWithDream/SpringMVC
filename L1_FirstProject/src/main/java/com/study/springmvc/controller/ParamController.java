@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/param")
 public class ParamController {
 
+
+
     @RequestMapping(path = "/testParam")
     public String testParam(String username, String password){
         System.out.println("测试参数绑定");
