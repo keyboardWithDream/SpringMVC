@@ -24,5 +24,7 @@
     <br>
     <input type="submit" value="提交">
 </form>
+<hr>
+<a href="param/testServletApi?username=harlan&password=Hhn004460">获取ServletApi</a>
 </body>
 </html>
