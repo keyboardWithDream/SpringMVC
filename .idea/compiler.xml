@@ -10,8 +10,5 @@
         <module name="L1_FirstProject" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SpringMVC" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
