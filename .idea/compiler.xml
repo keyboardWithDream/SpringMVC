@@ -8,7 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SpringMVC" />
         <module name="L1_FirstProject" />
+        <module name="L2_Response" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

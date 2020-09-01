@@ -18,6 +18,9 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
+    <!-- 前端控制器,资源不拦截 -->
+    <mvc:resources mapping="/js/**" location="/js/"/>
+
     <!-- 开启SpringMVC注解支持 -->
     <mvc:annotation-driven/>
 
