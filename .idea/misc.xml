@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/L1_FirstProject" />
     <file type="web" url="file://$PROJECT_DIR$/L2_Response" />
+    <file type="web" url="file://$PROJECT_DIR$/L3_FileUpload" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -12,6 +13,7 @@
         <option value="$PROJECT_DIR$/L1_FirstProject/pom.xml" />
         <option value="$PROJECT_DIR$/L2_Response/L2_Response/L2_Response/pom.xml" />
         <option value="$PROJECT_DIR$/L2_Response/pom.xml" />
+        <option value="$PROJECT_DIR$/L3_FileUpload/pom.xml" />
       </list>
     </option>
   </component>
