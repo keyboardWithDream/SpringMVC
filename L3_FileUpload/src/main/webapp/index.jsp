@@ -22,5 +22,11 @@
     <label for="file">选择文件：</label><input type="file" name="file" id="file">
     <input type="submit" value="上传">
 </form>
+<hr>
+<h1>跨服务器文件上传</h1>
+<form action="/user/fileUpload" enctype="multipart/form-data" method="post">
+    <label for="file">选择文件：</label><input type="file" name="file" id="file">
+    <input type="submit" value="上传">
+</form>
 </body>
 </html>
