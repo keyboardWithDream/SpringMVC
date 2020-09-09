@@ -9,10 +9,12 @@
         <module name="SpringMVC" />
         <module name="L1_FirstProject" />
         <module name="L2_Response" />
+        <module name="L4_Exception" />
         <module name="L3_FileUpload" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="L3_Exception" target="1.5" />
       <module name="untitled" target="1.5" />
     </bytecodeTargetLevel>
   </component>

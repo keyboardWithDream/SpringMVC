@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/L1_FirstProject" />
     <file type="web" url="file://$PROJECT_DIR$/L2_Response" />
     <file type="web" url="file://$PROJECT_DIR$/L3_FileUpload" />
+    <file type="web" url="file://$PROJECT_DIR$/L4_Exception" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -14,6 +15,7 @@
         <option value="$PROJECT_DIR$/L2_Response/L2_Response/L2_Response/pom.xml" />
         <option value="$PROJECT_DIR$/L2_Response/pom.xml" />
         <option value="$PROJECT_DIR$/L3_FileUpload/pom.xml" />
+        <option value="$PROJECT_DIR$/L4_Exception/pom.xml" />
       </list>
     </option>
   </component>
