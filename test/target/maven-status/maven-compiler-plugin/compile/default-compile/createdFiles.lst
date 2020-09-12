@@ -1,0 +1,3 @@
+com\study\test\controller\TestController.class
+com\study\test\service\ITestService.class
+com\study\test\service\impl\TestServiceImpl.class
