@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="L5_Interceptor" />
+        <module name="test" />
         <module name="SpringMVC" />
         <module name="L1_FirstProject" />
         <module name="L2_Response" />
         <module name="L4_Exception" />
-        <module name="test" />
         <module name="L3_FileUpload" />
       </profile>
     </annotationProcessing>
